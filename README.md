@@ -50,7 +50,7 @@ Insights into programming language popularity, average salaries by country, and 
 ## Contact
 
 **Muhammad Farrukh Ali**  
-📧 farrukhpro01@gmail.com  
+📧 farrukhaliok@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/farrukh-ali01/)
 
 ---
